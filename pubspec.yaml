@@ -1,4 +1,4 @@
-name: installed_apps
+name: ia
 description: Flutter plugin with utility methods related to installed apps on device.
 version: 1.5.2
 homepage: https://github.com/sharmadhiraj/installed_apps
